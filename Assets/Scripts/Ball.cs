@@ -39,8 +39,15 @@ public class Ball : MonoBehaviour
         if (collision.gameObject.CompareTag("Void"))
         {
             gameObject.SetActive(false);
+
+            if (BallsManager.instance.AreAllBallsInactive())
+            {
+                HealthManager.Instance.gameOver();
+            }
+
             return;
         }
+
 
         if (!collision.gameObject.CompareTag("Player")) return;
 

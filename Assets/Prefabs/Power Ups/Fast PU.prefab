@@ -176,5 +176,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallSpeed: 3
-  speedMult: 2
+  speedMult: 4
   duration: 5

@@ -122,6 +122,19 @@ public class BallsManager : MonoBehaviour
         ballsPool.Add(NewBullet);
         return NewBullet;
     }
+
+    public bool AreAllBallsInactive()
+    {
+        foreach (GameObject ball in ballsPool)
+        {
+            if (ball.activeSelf)
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
 }
 
 public enum BallSpeedState
