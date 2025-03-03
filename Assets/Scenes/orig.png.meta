@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 53ce2850fd83224449683915fbc9fd09
+guid: 09b19fafc641d534792ba2da290093b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7270490544454747136
-    second: Backround_Tiles_0
+      213: -2579957754792524931
+    second: orig_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Backround_Tiles_0
+      name: orig_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 96
+        width: 800
+        height: 470
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 004cf0521a8f5e460800000000000000
-      internalID: 7270490544454747136
+      spriteID: d73c31a5716223cd0800000000000000
+      internalID: -2579957754792524931
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Backround_Tiles_0: 7270490544454747136
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

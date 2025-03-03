@@ -1134,7 +1134,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paddle_Parts_0: 4707734356320092710
+      Paddle_Parts_1: 4163691474097547603
+      Paddle_Parts_10: -3305267078155810603
+      Paddle_Parts_11: 8218542942107190364
+      Paddle_Parts_12: -8088334073371606779
+      Paddle_Parts_13: -2010381922339529118
+      Paddle_Parts_14: 3489365917660238631
+      Paddle_Parts_15: 5770708593675822136
+      Paddle_Parts_16: 2580852709695709676
+      Paddle_Parts_17: -3172474006247660176
+      Paddle_Parts_18: 1203597586600261965
+      Paddle_Parts_19: 3005219238837840598
+      Paddle_Parts_2: 8573142675107371620
+      Paddle_Parts_20: -896848091331059146
+      Paddle_Parts_21: -4865638532892907805
+      Paddle_Parts_22: -1449738652719148966
+      Paddle_Parts_23: 5390857099944454697
+      Paddle_Parts_24: 1715015063715352976
+      Paddle_Parts_25: 3069168415262597577
+      Paddle_Parts_26: -3781263175267690577
+      Paddle_Parts_27: -8380762615104191706
+      Paddle_Parts_28: -4347575511501441899
+      Paddle_Parts_29: -8528222270944453443
+      Paddle_Parts_3: -3496607763610920691
+      Paddle_Parts_30: -3728051051425245368
+      Paddle_Parts_31: 8407420133534316152
+      Paddle_Parts_32: 2087674658178288828
+      Paddle_Parts_33: -6932603112756986377
+      Paddle_Parts_34: -2827718159569486744
+      Paddle_Parts_35: 2059742944776135669
+      Paddle_Parts_36: 3140053061319649215
+      Paddle_Parts_37: 3937609597772097073
+      Paddle_Parts_38: 7975565515715976844
+      Paddle_Parts_39: -6723182603371518265
+      Paddle_Parts_4: -3569535064573067736
+      Paddle_Parts_40: -7744565775778706932
+      Paddle_Parts_5: 6748707150448952199
+      Paddle_Parts_6: 2008116362723452046
+      Paddle_Parts_7: 7639011866518341118
+      Paddle_Parts_8: -4441702309728584159
+      Paddle_Parts_9: -5738240989238338795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -36,6 +36,7 @@ public class BrickController : MonoBehaviour
         {
             RollDropPowerUp();
             gameObject.SetActive(false);
+            HealthManager.Instance.CheckVictory();
             return;
         }
 
